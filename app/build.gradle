@@ -17,6 +17,7 @@ android {
 
         //BASE_URL
         buildConfigField "String", "BASE_URL", "\"https://absenyolo.000webhostapp.com/api/\""
+        buildConfigField "String", "BASE_IMAGE_URL", "\"https://absenyolo.000webhostapp.com/storage/profile/\""
 
         viewBinding.enabled = true
     }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live Attendance App</string>
+    <string name="hello_sign_in_your_account">Halo, silahkan masuk ke akun Anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="forgot_password">Lupa kata sandi</string>
+    <string name="history">Riwayat</string>
+    <string name="attendance">Presensi</string>
+    <string name="profile">Profil</string>
+    <string name="check_in">Lapor masuk</string>
+    <string name="your_photo">Foto Anda</string>
+    <string name="default_text" translatable="false">-</string>
+    <string name="current_location">Lokasi terkini</string>
+    <string name="check_out">Lapor keluar</string>
+    <string name="logout">Keluar</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="change_password">Ganti kata sandi</string>
+    <string name="confirm_new_password">Konfirmasi kata sandi</string>
+    <string name="new_password">Kata sandi baru</string>
+    <string name="old_password">Kata sandi lama</string>
+    <string name="search_your_location">Mencari lokasi Anda</string>
+    <string name="please_field_your_email">Silahkan isi email Anda</string>
+    <string name="please_use_valid_email">Silahkan pakai alamat yang valid</string>
+    <string name="please_field_your_password">Silahkan isi kata sandi</string>
+    <string name="failed">Gagal</string>
+    <string name="success">Sukses</string>
+    <string name="not_granted">Tidak diizinkan</string>
+    <string name="required_permission">Membutuhkan izin</string>
+    <string name="failed_to_capture_image">Gagal mengambil gambar</string>
+    <string name="are_you_sure">Anda yakin?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="success_check_in">Sukses lapor masuk</string>
+    <string name="success_check_out">Sukses lapor keluar</string>
+    <string name="alert">Peringatan</string>
+    <string name="something_wrong">Terjadi kesalahan</string>
+    <string name="please_take_your_photo">Silahkan ambil foto</string>
+    <string name="your_already_present">Anda sudah masuk</string>
+</resources>

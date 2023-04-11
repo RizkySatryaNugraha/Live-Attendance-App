@@ -17,6 +17,8 @@ android {
 
         //BASE_URL
         buildConfigField "String", "BASE_URL", "\"https://absenyolo.000webhostapp.com/api/\""
+
+        viewBinding.enabled = true
     }
 
     configurations.all {

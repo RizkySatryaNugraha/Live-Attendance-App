@@ -22,9 +22,22 @@
     <string name="confirm_new_password">Confirm New Password</string>
     <string name="new_password">New Password</string>
     <string name="old_password">Old Password</string>
+    <string name="search_your_location">Search your location</string>
     <string name="please_field_your_email">Please field your email</string>
     <string name="please_use_valid_email">Please use valid email</string>
     <string name="please_field_your_password">Please field your password</string>
     <string name="failed">Failed</string>
     <string name="success">Success</string>
+    <string name="not_granted">Not granted</string>
+    <string name="required_permission">Required permission</string>
+    <string name="failed_to_capture_image">Failed to capture image</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success_check_in">Success check in</string>
+    <string name="success_check_out">Success check out</string>
+    <string name="alert">Alert</string>
+    <string name="something_wrong">Something wrong</string>
+    <string name="please_take_your_photo">Please take your photo</string>
+    <string name="your_already_present">Your already present</string>
 </resources>

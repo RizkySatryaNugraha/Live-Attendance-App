@@ -38,4 +38,6 @@
     <string name="something_wrong">Terjadi kesalahan</string>
     <string name="please_take_your_photo">Silahkan ambil foto</string>
     <string name="your_already_present">Anda sudah masuk</string>
+    <string name="your_password_has_been_update">Password Anda sudah diperbarui</string>
+    <string name="your_password_didnt_match">Password Anda tidak cocok</string>
 </resources>

@@ -37,4 +37,6 @@
     <string name="something_wrong">Something wrong</string>
     <string name="please_take_your_photo">Please take your photo</string>
     <string name="your_already_present">Your already present</string>
+    <string name="your_password_has_been_update">Your password has been update</string>
+    <string name="your_password_didnt_match">Your password didn\'t match</string>
 </resources>

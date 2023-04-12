@@ -422,9 +422,9 @@ class AttendanceFragment : Fragment(), OnMapReadyCallback {
     override fun onMapReady(googleMap: GoogleMap?) {
         map = googleMap
         if (checkPermission()){
-            //Coordinate Kantor Codepolitan
-            val codepolitan = LatLng(-6.879513, 107.590085)
-            map?.moveCamera(CameraUpdateFactory.newLatLng(codepolitan))
+            //Koordinat IT Telkom Purwokerto
+            val ittp = LatLng(-7.434873, 109.251862)
+            map?.moveCamera(CameraUpdateFactory.newLatLng(ittp))
             map?.animateCamera(CameraUpdateFactory.zoomTo(20f))
 
             goToCurrentLocation()

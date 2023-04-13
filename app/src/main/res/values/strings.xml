@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Live Attendance App</string>
+    <string name="app_name">IT Telkom Purwokerto</string>
     <string name="hello_sign_in_your_account">Hello, Sign In Your Account</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
@@ -39,4 +39,8 @@
     <string name="your_already_present">Your already present</string>
     <string name="your_password_has_been_update">Your password has been update</string>
     <string name="your_password_didnt_match">Your password didn\'t match</string>
+    <string name="classified_as">Classified as</string>
+    <string name="confidence">Confidence</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Live Attendance App</string>
+    <string name="app_name">IT Telkom Purwokerto</string>
     <string name="hello_sign_in_your_account">Halo, silahkan masuk ke akun Anda</string>
     <string name="email">Email</string>
     <string name="password">Kata sandi</string>
@@ -40,4 +40,6 @@
     <string name="your_already_present">Anda sudah masuk</string>
     <string name="your_password_has_been_update">Password Anda sudah diperbarui</string>
     <string name="your_password_didnt_match">Password Anda tidak cocok</string>
+    <string name="classified_as">Terklasifikasi sebagai</string>
+    <string name="confidence">Keyakinan</string>
 </resources>

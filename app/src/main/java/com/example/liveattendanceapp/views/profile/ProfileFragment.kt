@@ -21,7 +21,6 @@ import com.example.liveattendanceapp.views.changepass.ChangePasswordActivity
 import com.example.liveattendanceapp.views.login.LoginActivity
 import com.example.liveattendanceapp.views.main.MainActivity
 import org.jetbrains.anko.startActivity
-import org.jetbrains.anko.toast
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
